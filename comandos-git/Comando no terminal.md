@@ -41,17 +41,24 @@
 ### GIT BASH
 
 - **ls -a** = Apresenta as pastas ocultas.
+
 - **git status** = Possibilita verificar o status do processo.
+
 - **git init** = Inicia o Git dentro de um repositório.
-- **git add * ** = Adiciona o arquivo ao repositório.
+
+- **git add "nome do arquivo" **= Adiciona o arquivo ao repositório, se quiser adicionar todos ao mesmo tempo, basta colocar * depois do add.
+
 - **git commit -m "dar um nome"** = Comitar.
+
 - **git remote add "apelido" link copiado do Github** = Utilizado para associar ao respositório criado no Github.
+
 - **git push "apelido criado no comando git remote add" master** = Utilizado para empurrar o trabalho da máquina local para o Github (nuvem).
+
 - **git push "apelido criado no comando git remote add" master** = Utilizado para puxar o trabalho do Github para a máquina local.
 
+  
 
-
-##### Comandos para atribuir um usuário ao repositório antes de começar a trabalhar em uma pasta (diretório)
+**Comandos para atribuir um usuário ao repositório antes de começar a trabalhar em uma pasta (diretório)**
 
 - git config --global user.email (passar o email cadastrado no github).
 
