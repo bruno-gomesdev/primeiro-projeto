@@ -46,7 +46,7 @@
 
 - **git init** = Inicia o Git dentro de um repositório.
 
-- **git add "nome do arquivo" **= Adiciona o arquivo ao repositório, se quiser adicionar todos ao mesmo tempo, basta colocar * depois do add.
+- **git add "nome do arquivo" ** = Adiciona o arquivo ao repositório, se quiser adicionar todos ao mesmo tempo, basta colocar * depois do add.
 
 - **git commit -m "dar um nome"** = Comitar.
 
